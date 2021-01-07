@@ -1,4 +1,4 @@
-# CS867-Assignment-3-Image-Classification-using-CNN
+# CS867-Assignment-3-Image-Classification-Using-CNN
 This repository contains files related to the CS867 Assignment 3.
 
 ## Tools and Dataset Used
